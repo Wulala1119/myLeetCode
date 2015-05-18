@@ -1,0 +1,12 @@
+﻿生成启动时间为 2015/4/22 9:15:41。
+     1>项目“E:\MyCloud\我的坚果云\LeetCode\LeetCode\160_IntersectionofTwoLinkedLists\160_IntersectionofTwoLinkedLists.vcxproj”在节点 4 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt IntersectionofTwoLinkedLists.cpp
+         IntersectionofTwoLinkedLists.cpp
+     1>e:\mycloud\我的坚果云\leetcode\leetcode\160_intersectionoftwolinkedlists\intersectionoftwolinkedlists.cpp(64): error C2039: “compareVersion”: 不是“Solution”的成员
+                 e:\mycloud\我的坚果云\leetcode\leetcode\160_intersectionoftwolinkedlists\intersectionoftwolinkedlists.cpp(14) : 参见“Solution”的声明
+     1>已完成生成项目“E:\MyCloud\我的坚果云\LeetCode\LeetCode\160_IntersectionofTwoLinkedLists\160_IntersectionofTwoLinkedLists.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.55

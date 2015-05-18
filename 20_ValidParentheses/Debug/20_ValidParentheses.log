@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/4/24 14:52:13。
+     1>项目“E:\MyCloud\我的坚果云\LeetCode\LeetCode\20_ValidParentheses\20_ValidParentheses.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt 20_ValidParentheses.cpp
+         20_ValidParentheses.cpp
+     1>e:\mycloud\我的坚果云\leetcode\leetcode\20_validparentheses\20_validparentheses.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MyCloud\我的坚果云\LeetCode\LeetCode\Debug\20_ValidParentheses.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\MyCloud\我的坚果云\LeetCode\LeetCode\Debug\20_ValidParentheses.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MyCloud\我的坚果云\LeetCode\LeetCode\Debug\20_ValidParentheses.lib" /MACHINE:X86 Debug\20_ValidParentheses.obj
+         20_ValidParentheses.vcxproj -> E:\MyCloud\我的坚果云\LeetCode\LeetCode\Debug\20_ValidParentheses.exe
+     1>已完成生成项目“E:\MyCloud\我的坚果云\LeetCode\LeetCode\20_ValidParentheses\20_ValidParentheses.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.75

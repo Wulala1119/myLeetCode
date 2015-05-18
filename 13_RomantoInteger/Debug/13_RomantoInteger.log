@@ -1,0 +1,17 @@
+﻿生成启动时间为 2015/4/23 22:33:28。
+     1>项目“E:\MyCloud\我的坚果云\LeetCode\LeetCode\13_RomantoInteger\13_RomantoInteger.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt 13_RomantoInteger.cpp
+         13_RomantoInteger.cpp
+     1>e:\mycloud\我的坚果云\leetcode\leetcode\13_romantointeger\13_romantointeger.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\mycloud\我的坚果云\leetcode\leetcode\13_romantointeger\13_romantointeger.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\mycloud\我的坚果云\leetcode\leetcode\13_romantointeger\13_romantointeger.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\mycloud\我的坚果云\leetcode\leetcode\13_romantointeger\13_romantointeger.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MyCloud\我的坚果云\LeetCode\LeetCode\Debug\13_RomantoInteger.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\MyCloud\我的坚果云\LeetCode\LeetCode\Debug\13_RomantoInteger.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MyCloud\我的坚果云\LeetCode\LeetCode\Debug\13_RomantoInteger.lib" /MACHINE:X86 Debug\13_RomantoInteger.obj
+         13_RomantoInteger.vcxproj -> E:\MyCloud\我的坚果云\LeetCode\LeetCode\Debug\13_RomantoInteger.exe
+     1>已完成生成项目“E:\MyCloud\我的坚果云\LeetCode\LeetCode\13_RomantoInteger\13_RomantoInteger.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.18
